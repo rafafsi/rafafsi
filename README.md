@@ -1,7 +1,7 @@
 
 #   :notebook: About Me
 
-&nbsp; &nbsp; &nbsp; &nbsp;🌱&nbsp; &nbsp;I’m a **Softwere Developer** under construction; <br/>
+&nbsp; &nbsp; &nbsp; &nbsp;🌱&nbsp; &nbsp;I’m a **Software Developer** under construction; <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp;👩‍💻&nbsp; &nbsp;I'm currently studying **System and Analysis Development**; <br/>
 
