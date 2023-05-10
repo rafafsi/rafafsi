@@ -3,7 +3,7 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;🌱&nbsp; &nbsp;I’m a **Software Developer** under construction; <br/>
 
-&nbsp; &nbsp; &nbsp; &nbsp;👩‍💻&nbsp; &nbsp;I'm currently studying **System and Analysis Development**; <br/>
+&nbsp; &nbsp; &nbsp; &nbsp;👩‍💻&nbsp; &nbsp;I'm currently studying **Systems Analysis and Development**; <br/>
 
 &nbsp; &nbsp; &nbsp; &nbsp;🩺&nbsp; &nbsp; I've got also a **Bachelor in Nursing**; <br/>
 &nbsp;
