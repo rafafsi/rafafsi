@@ -1,16 +1,55 @@
-### Hi there 👋
 
-<!--
-**rafafsi/rafafsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#   :notebook: About Me
 
-Here are some ideas to get you started:
+&nbsp; &nbsp; &nbsp; &nbsp;🌱&nbsp; &nbsp;I’m a **Softwere Developer** under construction; <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp; &nbsp; &nbsp; &nbsp;👩‍💻&nbsp; &nbsp;I'm currently studying **System and Analysis Development**; <br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp;🩺&nbsp; &nbsp; I've got also a **Bachelor in Nursing**; <br/>
+&nbsp;
+
+### &nbsp; &nbsp; &nbsp; &nbsp;  :open_book:  and more...
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;⚽&nbsp; &nbsp;Football is my passion (watching and playing);<br/> 
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;🎵&nbsp; &nbsp;Music is my refuge (listening and playing);<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;:hammer_and_wrench:&nbsp; &nbsp;Give me some tools and I'll probably fix your broken thing;<br/>
+
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;:rainbow_flag: &nbsp; &nbsp;I'm exactly who I should be.<br/>
+
+
+&nbsp; 
+
+# 🚀 Skills
+
+- Front-End Development:
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap&theme=light" />
+  </a>
+</p>
+
+- Back-End Development:
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,nodejs&theme=light" />
+  </a>
+</p>
+
+- Mobile Development:
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
+  <a href="https://skillicons.dev">
+    <img src="https://upload.vectorlogo.zone/logos/reactnativedev/images/199b2976-954e-4e42-8d79-12a784e2cdf9.svg" width="50" height="50" alt="React Native"/>
+  </a>
+</p>
+
+- Tools I'm used to using:
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,powershell,vscode,postman,linux,ps,figma&theme=light" />
+  </a>
+</p>
+
+&nbsp; 
+ 
