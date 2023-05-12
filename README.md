@@ -26,7 +26,7 @@
 - Front-End Development:
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,vue,bootstrap&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap&theme=light" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 - Tools I'm used to using:
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,vscode,postman,linux,ps,figma&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,vscode,postman,linux,ps,figma,androidstudio&theme=light" />
   </a>
 </p>
 
