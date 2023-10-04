@@ -23,17 +23,17 @@
 
 # 🚀 Skills
 
-- Front-End Development:
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vue,bootstrap&theme=light" />
-  </a>
-</p>
-
 - Back-End Development:
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,nodejs&theme=light" />
+    <img src="https://skillicons.dev/icons?i=java,nodejs,nestjs,typescript,kafka,rabbitmq,gcp&theme=light" />
+  </a>
+</p>
+
+- Front-End Development:
+&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=light" />
   </a>
 </p>
 
@@ -47,7 +47,7 @@
 - Tools I'm used to using:
 &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,powershell,vscode,postman,linux,ps,figma,androidstudio&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,powershell,vscode,postman,linux,ps,figma,insomnia,pgadmin4,atlasdb&theme=light" />
   </a>
 </p>
 
