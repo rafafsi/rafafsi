@@ -7,18 +7,6 @@
 
 &nbsp; &nbsp; &nbsp; &nbsp;🩺&nbsp; &nbsp;I've got also a **Bachelor in Nursing**; <br/>
 &nbsp;
-
-### &nbsp; &nbsp; &nbsp; &nbsp;  :open_book:  and more...
-
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;⚽&nbsp; &nbsp;Football is my passion (watching and playing);<br/> 
-
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;🎵&nbsp; &nbsp;Music is my refuge (listening to and playing);<br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :hammer_and_wrench:&nbsp; &nbsp;Give me some tools and I'll probably fix your broken thing;<br/>
-
-&nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; :rainbow_flag: &nbsp; &nbsp;I'm exactly who I should be.<br/>
-
-
 &nbsp; 
 
 # 🚀 Skills
